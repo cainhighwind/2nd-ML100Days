@@ -1,0 +1,3 @@
+我們可以看到：
+1. dir 可以列出一個物件的所有 Function
+2. help 可以查詢內建 Function 的用法
