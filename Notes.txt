@@ -1,3 +1,11 @@
 我們可以看到：
 1. dir 可以列出一個物件的所有 Function
 2. help 可以查詢內建 Function 的用法
+
+
+嗨，pandas 的 read_csv 有一個參數是「skiprows」，可以跳過某些列不要讀取，可以搭配 lambda + % 來使用： 
+
+``` 
+n = 100 # every 100th line = 1% of the lines 
+df = pd.read_csv(filename, header=0, skiprows=lambda i: i % n != 0) 
+```
