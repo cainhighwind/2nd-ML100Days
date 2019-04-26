@@ -2,6 +2,11 @@
 1. dir 可以列出一個物件的所有 Function
 2. help 可以查詢內建 Function 的用法
 
+Jupyter 提示，
+使用 tab 可以做 auto completion，
+使用 shift+tab 可以觀察函數的變數為何，
+使用 ??function 可以看到原始碼
+
 
 嗨，pandas 的 read_csv 有一個參數是「skiprows」，可以跳過某些列不要讀取，可以搭配 lambda + % 來使用： 
 
