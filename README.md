@@ -21,3 +21,6 @@ https://www.packtpub.com/…/mastering-machine-learning-sciki…
 https://github.com/…/Mastering-Machine-Learning-with-scikit…
 
 4 ) Scikit-Learn官方文件：https://scikit-learn.org/stable/index.html
+
+
+https://medium.com/@baubibi/%E9%80%9F%E8%A8%98ai%E8%AA%B2%E7%A8%8B-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%85%A5%E9%96%80-%E4%B8%80-68e27912ce30?fbclid=IwAR20Kkdgw6MF0xySbkkMXVhJVIcX1MIFGiKIlyw1CjvtXLz56kgX3mRBj1w
