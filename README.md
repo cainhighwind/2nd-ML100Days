@@ -24,3 +24,13 @@ https://github.com/…/Mastering-Machine-Learning-with-scikit…
 
 
 https://medium.com/@baubibi/%E9%80%9F%E8%A8%98ai%E8%AA%B2%E7%A8%8B-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%85%A5%E9%96%80-%E4%B8%80-68e27912ce30?fbclid=IwAR20Kkdgw6MF0xySbkkMXVhJVIcX1MIFGiKIlyw1CjvtXLz56kgX3mRBj1w
+
+
+深度學習電子書：(內含網頁版、Jupyter Notebooks、線上討論區，還有簡中版本！
+https://d2l.ai/index.html 
+
+免費線上課程：https://www.youtube.com/watch?v=KKT2VkTdFyc&list=PLJV_el3uVTsOh1F5eo9txATa4iww0Kp8K
+
+30天理解 Neural Network ：https://ithelp.ithome.com.tw/users/20001976/ironman/1395
+
+深度學習論文閱讀路徑：https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
