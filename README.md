@@ -34,3 +34,15 @@ https://d2l.ai/index.html
 30天理解 Neural Network ：https://ithelp.ithome.com.tw/users/20001976/ironman/1395
 
 深度學習論文閱讀路徑：https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+
+
+Python 資源在這裡唷！🎉
+
+☑ Python 數據分析課程
+      http://bit.ly/2V4ixM7
+
+☑ Python 網頁爬蟲課程
+      http://bit.ly/2J7nH8v
+
+☑ Python 完整電子書
+      http://bit.ly/2Ws85jd
